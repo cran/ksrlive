@@ -1,0 +1,14 @@
+9ea09904efcc671a1d4b50f6428fa20d *DESCRIPTION
+903f68e4ffc7dddaf3c78e0cffed00b2 *NAMESPACE
+7e4f99f2010d9b20df2dc573003be26e *R/ksrlive-internal.R
+1d3fac15d9f71f23d29ced84031bc399 *R/ksrlive.R
+2be1a72a48ea9fa0a798f66151706980 *data/datakin.RData
+df9475dcb6a9df56e9af043ca774b888 *data/datalist
+6e5da0b8bccb4c7429d3906f375ba8f5 *data/phosphonetworkdf.RData
+f3becba37a9bda0fa281f2f7e41b7e34 *man/KSR.list.Rd
+25afe66407218a57983d3cf0b8182d82 *man/clust.expand.Rd
+29e837c92e1f82e6012b7965644b7461 *man/clustering.Rd
+28375a7e78e564f1adb7a791c2c17eec *man/data_kin.Rd
+bc5c45eba89d2ea6937ee1f8a6e439ad *man/ksrlive.Rd
+582b0345a6bb5700d457b5b7112765fc *man/phosphonetwork_df.Rd
+60b253a2329e753fbe830223cebb720a *man/random.data.Rd
